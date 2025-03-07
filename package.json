@@ -8,5 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sannusharma02/asynchronous-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sannusharma02/asynchronous-js/issues"
+  },
+  "homepage": "https://github.com/Sannusharma02/asynchronous-js#readme",
+  "description": "",
+  "dependencies": {
+    "superagent": "^10.1.1"
+  }
 }
